@@ -1,23 +1,30 @@
-# Hello 👋 I'm Angel Peña:
+# Hello I'm Angel Peña 🦦:
 🌎 Based in Monterrey, Mexico<br>🐦‍🔥 Working on UI/UX development with Swift<br>🌱 Currently learning Bioinformatics<br>🧮 Teaching math as an Academic Mentor of Excellence
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="GitHub Quote" />
 </div>
 
-## 🌐 Socials:
+
+## 📩 Contact me:
 <div align="center">
+  <a href="https://discord.gg/Zz9jk2j9bS">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="https://instagram.com/anngelorlando">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/AngelOrlandoAnguianoPeña">
+  <a href="https://www.threads.net/@anngelorlando">
+    <img src="https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white" alt="Threads" />
+  </a>
+  <a href="https://linkedin.com/in/Angel Orlando Anguiano Peña">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 
-
-## 💻 Tech Stack:
+## 👨🏻‍💻 Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -39,7 +46,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
-## 📊 GitHub Stats:
+
+## ☄️ GitHub stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aorlandodx&theme=react&hide_border=false" alt="GitHub Streak Stats" />
   <br/>
