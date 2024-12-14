@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello 👋 I'm Angel Peña
 🌎 Based in Monterrey, Mexico<br>🐦‍🔥 Working on UI/UX development with Swift<br>🌱 Currently learning Bioinformatics<br>🧮 Teaching math as an Academic Mentor of Excellence
 
 
