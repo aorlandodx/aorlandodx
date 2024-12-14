@@ -4,6 +4,10 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="GitHub Quote" />
+  <br/><br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=aorlandodx&icon=0&color=0" alt="Profile Visit Count" />
+  </a>
 </div>
 
 
@@ -58,10 +62,6 @@
 ## 🎧 Music, my essence:
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vmceb7w6dqlovkt4by47ahprta&unique={true|1|on|yes}" alt="Spotify Recently Played" />
-  <br/><br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aorlandodx&icon=0&color=0" alt="Profile Visit Count" />
-  </a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
