@@ -24,3 +24,5 @@ I'm a sophomore SWE at @ITESM
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/aorlandodx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aorlandodx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmceb7w6dqlovkt4by47ahprta&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
