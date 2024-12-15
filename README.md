@@ -25,6 +25,9 @@
   <a href="https://www.linkedin.com/in/angelorlandoap">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://dev.to/aorlandodx">
+    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
 </div>
 
 
