@@ -22,7 +22,7 @@
   <a href="https://www.threads.net/@anngelorlando">
     <img src="https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="www.linkedin.com/in/angelorlandoap">
+  <a href="[www.linkedin.com/in/angelorlandoap](https://www.linkedin.com/in/angelorlandoap/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
