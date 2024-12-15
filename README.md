@@ -28,6 +28,9 @@
   <a href="https://dev.to/aorlandodx">
     <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
+  <a href="https://hashnode.com/@aorlandodx">
+    <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?logo=hashnode&logoColor=white" alt="hashnode" />
+  </a>
 </div>
 
 
