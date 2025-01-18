@@ -1,5 +1,5 @@
 # Hello! I'm Angel Peña 🦦:
-🌎 Based in Monterrey, Mexico<br>🐦‍🔥 Working on UI/UX development with Swift<br>🌱 Currently learning Bioinformatics<br>🧮 Teaching math as an Academic Mentor of Excellence
+🌱 Currently learning Bioinformatics<br>🐦‍🔥 Working on UI/UX development with Swift<br>🧮 Teaching math as an Academic Mentor of Excellence<br>🎾 I play tennis as a hobbie
 
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
 
 
-## 📩 Contact me:
+## 📩 Connect with me:
 <div align="center">
   <a href="https://discord.gg/Zz9jk2j9bS">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
@@ -33,6 +33,10 @@
   <a href="https://hashnode.com/@aorlandodx">
     <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?logo=hashnode&logoColor=white" alt="hashnode" />
   </a>
+  <a href="https://www.kaggle.com/Aorlandodx">
+    <img src="https://img.shields.io/badge/Kaggle-%23056EF0.svg?logo=Kaggle&logoColor=white" alt="Kaggle" />
+</a>
+
 </div>
 
 
