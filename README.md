@@ -21,17 +21,17 @@
   <a href="https://instagram.com/anngelorlando">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.threads.net/@anngelorlando">
+  <!-- <a href="https://www.threads.net/@anngelorlando">
     <img src="https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white" alt="Threads" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/angelorlandoap">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/aorlandodx">
-    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
   <a href="https://hashnode.com/@aorlandodx">
     <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?logo=hashnode&logoColor=white" alt="hashnode" />
+  </a>
+  <a href="https://dev.to/aorlandodx">
+    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
   <a href="https://www.kaggle.com/Aorlandodx">
     <img src="https://img.shields.io/badge/Kaggle-%23056EF0.svg?logo=Kaggle&logoColor=white" alt="Kaggle" />
