@@ -13,7 +13,7 @@
 </div>
 
 
-## 📩 Connect with me:
+## Connect with me
 <div align="center">
   <a href="https://discord.gg/Zz9jk2j9bS">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
@@ -40,7 +40,7 @@
 </div>
 
 
-## 👨🏻‍💻 Tech Stack:
+## Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -63,17 +63,16 @@
 </div>
 
 
-## ☄️ GitHub stats:
+<!-- ## ☄️ GitHub stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aorlandodx&theme=react&hide_border=false" alt="GitHub Streak Stats" />
-  <br/>
+  <br/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorlandodx&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> -->
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aorlandodx&layout=compact&theme=react)
-</div>
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aorlandodx&layout=compact&theme=react)
+</div> -->
 
 
-## 🎧 Music, my essence:
+## Music, my essence
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vmceb7w6dqlovkt4by47ahprta&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </div>
