@@ -68,9 +68,9 @@
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aorlandodx&layout=compact&theme=react)
 </div> -->
 
-
-## Music, my essence
 <!--
+## Music, my essence
+
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vmceb7w6dqlovkt4by47ahprta&unique={true|1|on|yes}" alt="Spotify Recently Played" />
 </div>
