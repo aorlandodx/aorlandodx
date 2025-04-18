@@ -15,9 +15,9 @@
   <!-- <a href="https://discord.gg/Zz9jk2j9bS">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a> -->
-  <a href="https://instagram.com/anngelorlando">
+  <!-- <a href="https://instagram.com/anngelorlando">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
+  </a> -->
   <!-- <a href="https://www.threads.net/@anngelorlando">
     <img src="https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white" alt="Threads" />
   </a> -->
