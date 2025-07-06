@@ -1,63 +1,36 @@
-# Hello! I'm Angel Peña 🦦:
-🌱 Currently learning Bioinformatics<br>🧮 Teaching math as an Academic Mentor of Excellence<br>🎾 I play tennis as a hobbie
+# Hello! I'm Angel Peña 
+🐑 Software Engineering student at Tecnológico de Monterrey. <br>
+🔬 President of the research organization GenoBit: Genomics and Bioinformatics. <br>
+🧬 Currently learning Biopython, R and Machine Learning to analyze omics and clinical data. <br>
+🧮 Teaching math and programming as an Academic Mentor of Excellence at my university.<br>
+🎾 I love to play tenis and running.
 
-
+<!-- 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="GitHub Quote" />
   <br/><br/>
   <a href="https://visitcount.itsvg.in">
   </a>
 </div>
+-->
 
 
-## Connect with me
-<div align="center">
-  <!-- <a href="https://discord.gg/Zz9jk2j9bS">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
-  </a> -->
-  <!-- <a href="https://instagram.com/anngelorlando">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a> -->
-  <!-- <a href="https://www.threads.net/@anngelorlando">
-    <img src="https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white" alt="Threads" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/angelorlandoap">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+## Languages and tools
+
+<!-- Languages -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,swift,py,cs,js" />
   </a>
-  <a href="https://hashnode.com/@aorlandodx">
-    <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?logo=hashnode&logoColor=white" alt="hashnode" />
+</p>
+
+<!-- Technoogies -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,html,css,dotnet,react,mysql,postman,figma" />
   </a>
-  <!-- <a href="https://dev.to/aorlandodx">
-    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a> -->
-  <a href="https://www.kaggle.com/Aorlandodx">
-    <img src="https://img.shields.io/badge/Kaggle-%23056EF0.svg?logo=Kaggle&logoColor=white" alt="Kaggle" />
-</a>
+</p>
 
-</div>
-
-
-## Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <!-- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> -->
-  
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" />
-  <!-- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> -->
-  
-  <!-- <img src="https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift" /> -->
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" /> 
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
-  <!-- <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" /> -->
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
-  <!-- <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion" /> -->
-  <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" /> -->
-</div>
 
 
 <!-- ## ☄️ GitHub stats:
@@ -67,6 +40,24 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorlandodx&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> -->
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aorlandodx&layout=compact&theme=react)
 </div> -->
+
+## Connect with me
+<div align="center">
+  <a href="https://www.linkedin.com/in/angelorlandoap">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!--
+  </a>
+  <a href="https://hashnode.com/@aorlandodx">
+    <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?logo=hashnode&logoColor=white" alt="hashnode" />
+  </a> -->
+  <!-- <a href="https://dev.to/aorlandodx">
+    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a> -->
+  <a href="https://www.kaggle.com/Aorlandodx">
+    <img src="https://img.shields.io/badge/Kaggle-%23056EF0.svg?logo=Kaggle&logoColor=white" alt="Kaggle" />
+</a>
+
+</div>
 
 <!--
 ## Music, my essence
