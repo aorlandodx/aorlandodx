@@ -27,7 +27,7 @@
 <!-- Technoogies -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,html,css,dotnet,react,mysql,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=arduino,html,css,dotnet,react,mysql,bash,postman,figma,unity" />
   </a>
 </p>
 
