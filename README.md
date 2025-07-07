@@ -20,7 +20,7 @@
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,swift,py,cs,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,swift,py,r,cs,js" />
   </a>
 </p>
 
