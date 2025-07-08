@@ -1,6 +1,6 @@
 # Hello! I'm Angel Peña 
 🐑 Software Engineering student at Instituto Tecnológico de Monterrey. <br>
-🔬 President and Founder of GenoBit: Genomics and Bioinformatics, a student-led research organization at Tec. <br>
+🔬 President and Founder of GenoBit, a Bioinformatics student-led research organization. <br>
 🧬 Currently learning Biopython, R and Machine Learning to analyze omics and clinical data. <br>
 🧮 Teaching math and programming as an Academic Mentor of Excellence at my university.<br>
 🎾 I love to play tenis and running.
