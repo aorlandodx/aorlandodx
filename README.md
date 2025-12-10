@@ -20,14 +20,14 @@
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,swift,py,r,cs,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,swift,py,r,cs,js,ts" />
   </a>
 </p>
 
 <!-- Technoogies -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,html,css,dotnet,react,mysql,bash,postman,figma,unity" />
+    <img src="https://skillicons.dev/icons?i=arduino,html,css,dotnet,react,mysql,bash,postman,figma,unity,docker,flask,react,firebase" />
   </a>
 </p>
 
