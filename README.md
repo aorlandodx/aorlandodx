@@ -32,39 +32,22 @@
 </p>
 
 
-
-<!-- ## ☄️ GitHub stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aorlandodx&theme=react&hide_border=false" alt="GitHub Streak Stats" />
-  <br/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorlandodx&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> -->
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aorlandodx&layout=compact&theme=react)
-</div> -->
-
 ## Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/angelorlandoap">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <!--
-  </a>
-  <a href="https://hashnode.com/@aorlandodx">
-    <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?logo=hashnode&logoColor=white" alt="hashnode" />
-  </a> -->
-  <!-- <a href="https://dev.to/aorlandodx">
-    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a> -->
   <a href="https://www.kaggle.com/Aorlandodx">
     <img src="https://img.shields.io/badge/Kaggle-%23056EF0.svg?logo=Kaggle&logoColor=white" alt="Kaggle" />
 </a>
 
 </div>
 
-<!--
-## Music, my essence
 
+## LeetCode
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vmceb7w6dqlovkt4by47ahprta&unique={true|1|on|yes}" alt="Spotify Recently Played" />
+  <a href="https://leetcode.com/u/Aorlandodx/">
+    <img src="https://leetcode-stats.vercel.app/api?username=Aorlandodx&theme=Dark" 
+         alt="Angel's LeetCode Stats" />
+  </a>
 </div>
--->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
