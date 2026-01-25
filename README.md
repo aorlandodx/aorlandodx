@@ -1,4 +1,4 @@
-# Hello! I'm Angel Peña 
+# Hello! I'm Angel Peña 🦬
 🐑 Computer Science student at ITESM <br>
 🔬 Co-founder and President of GenoBit: Genomics and Bioinformatics student-led research organization <br>
 🧬 Currently working on Machine Learning and Deep Learning techniques for Neuroimaging and Omics data manipulation <br>
