@@ -41,7 +41,7 @@
 
 <!-- Technoogies -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,flask,fastapi,mysql,postgres,firebase,supabase,mongo,postman,bash,arduino" />
+  <img src="https://skillicons.dev/icons?i=docker,flask,fastapi,mysql,postgres,firebase,supabase,sqlite,mongo,postman,bash,arduino" />
 </p>
 
 <p align="center">
