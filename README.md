@@ -1,9 +1,9 @@
 # Hello! I'm Angel Peña 
-🐑 Software Engineering student at Instituto Tecnológico de Monterrey. <br>
-🔬 President and Founder of GenoBit, a Bioinformatics student-led research organization. <br>
-🧬 Currently learning Biopython, R and Machine Learning to analyze omics and clinical data. <br>
-🧮 Teaching math and programming as an Academic Mentor of Excellence at my university.<br>
-🎾 I love to play tenis and running.
+🐑 Computer Science student at ITESM <br>
+🔬 Co-founder and President of GenoBit: Genomics and Bioinformatics student-led research organization <br>
+🧬 Currently working on Machine Learning and Deep Learning techniques for Neuroimaging and Omics data manipulation <br>
+🧮 Teaching Math and Programming as an Academic Excellence Mentor at my university <br>
+🎾 I spend my free time playing Tenis, reading old literature and writing poetry
 
 <!-- 
 <div align="center">
@@ -26,10 +26,13 @@
 
 <!-- Technoogies -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,html,css,dotnet,mysql,bash,postman,figma,unity,docker,flask,react,firebase" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,flask,fastapi,mysql,postgres,firebase,supabase,mongo,postman,bash,arduino" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bun,html,css,react,vite,tailwind,dotnet,vue,angular" />
+</p>
+
 
 
 ## Connect with me
@@ -43,11 +46,11 @@
 </div>
 
 
-## LeetCode
+<!-- ## LeetCode
 <div align="center">
   <a href="https://leetcode.com/u/Aorlandodx/">
     <img src="https://leetcode-stats.vercel.app/api?username=Aorlandodx&theme=Dark" 
          alt="Angel's LeetCode Stats" />
   </a>
 </div>
-
+-->
