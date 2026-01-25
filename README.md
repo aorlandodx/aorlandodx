@@ -3,7 +3,7 @@
 🔬 Co-founder and President of GenoBit: Genomics and Bioinformatics student-led research organization <br>
 🧬 Currently working on Machine Learning and Deep Learning techniques for Neuroimaging and Omics data manipulation <br>
 🧮 Teaching Math and Programming as an Academic Excellence Mentor at my university <br>
-🎾 I spend my free time playing Tenis, reading old literature and writing poetry
+🎾 Tennis, literature, poetry and listening to music are my fav hobbies :)
 
 <!-- 
 <div align="center">
