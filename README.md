@@ -20,6 +20,8 @@
   </a>
 </div>
 
+
+
 <!-- 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="GitHub Quote" />
@@ -35,20 +37,20 @@
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,swift,py,r,cs,js,ts" />
+    <img src="https://skillicons.dev/icons?i=cpp,swift,py,r,cs,ts" />
   </a>
 </p>
 
 <!-- Technoogies -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,flask,fastapi,mysql,postgres,firebase,supabase,sqlite,mongo,postman,bash,arduino" />
+  <img src="https://skillicons.dev/icons?i=docker,flask,mysql,postgres,firebase,supabase,mongo,postman,bash,arduino" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bun,html,css,react,vite,tailwind,dotnet,vue,angular" />
 </p>
 
-
+<!--<img src="https://skillicons.dev/icons?i=docker,flask,fastapi,mysql,postgres,firebase,supabase,sqlite,mongo,postman,bash,arduino" /> -->
 </div>
 
 
