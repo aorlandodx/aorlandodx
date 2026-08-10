@@ -16,7 +16,9 @@ When I'm not on my Mac, I'm probably on the tennis court or at the ranch with my
 
 <div>
   <a href="https://www.linkedin.com/in/angelorlandoap">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+
+  <!--
   </a>
   <a href="https://www.instagram.com/anngelorlando">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
@@ -24,6 +26,7 @@ When I'm not on my Mac, I'm probably on the tennis court or at the ranch with my
   <a href="mailto:aorlandop29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email" />
 </div>
+-->
 
 
 
