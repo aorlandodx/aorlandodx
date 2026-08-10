@@ -6,7 +6,7 @@
 
 I'm [**Angel Peña**](https://angelorlando.vercel.app/) 🦬 Software Engineer, Computational Biologist and an aspiring Computational Scientist. 
 
-Research Intern at [@Dana-Farber Cancer Institute](https://www.dana-farber.org/)/[@Harvard Medical School](https://hms.harvard.edu),  Computer Science Student at [@Tecnológico de Monterrey](https://tec.mx/en), Co-Founder of [@GenoBit](https://genobit.vercel.app). 
+Research Intern at [@Dana-Farber Cancer Institute](https://www.dana-farber.org/)/[@Harvard Medical School](https://hms.harvard.edu) as a member of the [@BCCB](https://labs.dana-farber.org/bccb/) group,  Computer Science Student at [@Tecnológico de Monterrey](https://tec.mx/en), Co-Founder of [@GenoBit](https://genobit.vercel.app). 
 
 When I'm not on my Mac, I'm probably on the tennis court, at the ranch with my animals or just side questing.
  
