@@ -1,9 +1,18 @@
-# Hello! I'm Angel Peña 🦬
-🐑 Computer Science student at ITESM <br>
-🔬 Co-founder and President of GenoBit: Genomics and Bioinformatics student-led research organization <br>
-🧬 Currently working on Machine Learning and Deep Learning techniques for Neuroimaging and Omics data manipulation <br>
-🧮 Teaching Math and Programming as an Academic Excellence Mentor at my university <br>
-🎾 Tennis, literature, poetry and listening to music are my fav hobbies :) <br>
+<img width="1165" height="291" alt="1730585489212" src="https://github.com/user-attachments/assets/a78da156-55a5-4705-8823-03904aef61fa" />
+
+# Hi there! <img width="32" height="27" alt="tumblr_mkkdoteW1W1rfjowdo1_500" src="https://github.com/user-attachments/assets/abe5b212-6834-4efe-8e7b-48ebf5d35160" />
+
+
+
+I'm [**Angel Peña**](https://www.linkedin.com/in/angelorlandoap/) 🦬 Software Engineer, Computational Biologist and an aspiring Computational Scientist. 
+
+Research Intern at [@Dana-Farber Cancer Instiute](https://www.dana-farber.org/)/[@Harvard Medical School](https://hms.harvard.edu),  Computer Science Student at [@Tecnológico de Monterrey](https://tec.mx/en), Co-founder of [@GenoBit](https://genobit.vercel.app). 
+
+When I'm not on my Mac, I'm probably on the tennis court or at the ranch with my animals or just side questing.
+ 
+
+
+
 
 <div>
   <a href="https://www.linkedin.com/in/angelorlandoap">
@@ -14,10 +23,6 @@
   </a>
   <a href="mailto:aorlandop29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-    <a href="https://www.kaggle.com/Aorlandodx">
-    <img src="https://img.shields.io/badge/Kaggle-%23056EF0.svg?logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
 </div>
 
 
@@ -31,17 +36,21 @@
 </div>
 -->
 
-
+<!--
 ## Languages and tools
+-->
 
 <!-- Languages -->
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,swift,py,r,cs,ts" />
   </a>
 </p>
+-->
 
 <!-- Technoogies -->
+<!--
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,flask,mysql,postgres,firebase,supabase,mongo,postman,bash,arduino" />
 </p>
@@ -51,7 +60,8 @@
 </p>
 
 <!--<img src="https://skillicons.dev/icons?i=docker,flask,fastapi,mysql,postgres,firebase,supabase,sqlite,mongo,postman,bash,arduino" /> -->
-</div>
+
+
 
 
 <!-- ## LeetCode
