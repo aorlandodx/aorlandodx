@@ -1,12 +1,10 @@
 <img width="1165" height="291" alt="1730585489212" src="https://github.com/user-attachments/assets/a78da156-55a5-4705-8823-03904aef61fa" />
 
-## Hi there! <img width="32" height="27" alt="tumblr_mkkdoteW1W1rfjowdo1_500" src="https://github.com/user-attachments/assets/abe5b212-6834-4efe-8e7b-48ebf5d35160" />
+## Hi there! 🦬
 
+I'm [**Angel Peña**](https://angelorlando.vercel.app/)  Software Engineer, Computational Biologist and an aspiring Computational Scientist. 
 
-
-I'm [**Angel Peña**](https://angelorlando.vercel.app/) 🦬 Software Engineer, Computational Biologist and an aspiring Computational Scientist. 
-
-Research Intern at [@Dana-Farber Cancer Institute](https://www.dana-farber.org/)/[@Harvard Medical School](https://hms.harvard.edu) as a member of the [@BCCB](https://labs.dana-farber.org/bccb/) group,  Computer Science Student at [@Tecnológico de Monterrey](https://tec.mx/en), Co-Founder of [@GenoBit](https://genobit.vercel.app). 
+Research Intern at [@Dana-Farber Cancer Institute](https://www.dana-farber.org/)/[@Harvard Medical School](https://hms.harvard.edu) as a member of the [@BCCB](https://labs.dana-farber.org/bccb/) group,  Research Affiliate in [@Cancer Program](https://www.broadinstitute.org/cancer) at [@The Broad Institute of MIT and Harvard](https://www.broadinstitute.org), Computer Science Student at [@Instituto Tecnológico de Monterrey](https://tec.mx/en), Co-Founder of [@GenoBit](https://genobit.vercel.app). 
 
 When I'm not on my Mac, I'm probably on the tennis court, at the ranch with my animals or just side questing.
  
